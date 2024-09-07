@@ -1,0 +1,20 @@
+{
+  "key.toggleFish": "钓鱼",
+  "key.categories.endless": "Endless",
+  "autoFish.caught": "你钓到了",
+  "autoFish.onFish": "一",
+  "autoFish.onTreasure": "宝藏",
+  "autoFish.onJunk": "哦不， ",
+  "autoFish.onMythical": "千克",
+  "autoFish.mythical.helios": "Ember of Helios",
+  "autoFish.mythical.selene": "Dust of Selene",
+  "autoFish.mythical.nyx": "夜神之影",
+  "autoFish.mythical.aphrodite": "爱神之心",
+  "autoFish.mythical.zeus": "宙斯火花",
+  "autoFish.mythical.daedalus": "Automaton of Daedalus",
+  "autoFish.mythical.hades": "Wrath of Hades",
+  "autoFish.stats": "数据统计",
+  "autoFish.preMythical": "神话鱼",
+  "autoFish.postMythical": "你钓到了",
+  "autoFish.message.joinLobby": "进入了大厅"
+}

@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "package": "cn.asone.endless.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "MixinChatScreen",
+    "MixinClientConnection",
+    "MixinClientPlayerEntity",
+    "MixinMinecraftClient",
+    "MixinReloadableResourceManagerImpl",
+    "MixinScreen"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "MixinEntityRenderer"
+  ]
+}

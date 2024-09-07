@@ -1,0 +1,20 @@
+{
+  "key.toggleFish": "Fishing",
+  "key.categories.endless": "Endless",
+  "autoFish.caught": "You caught",
+  "autoFish.onFish": " a",
+  "autoFish.onTreasure": "treasure",
+  "autoFish.onJunk": "Oh no, ",
+  "autoFish.onMythical": "kg ",
+  "autoFish.mythical.helios": "Ember of Helios",
+  "autoFish.mythical.selene": "Dust of Selene",
+  "autoFish.mythical.nyx": "Shadow of Nyx",
+  "autoFish.mythical.aphrodite": "Heart of Aphrodite",
+  "autoFish.mythical.zeus": "Spark of Zeus",
+  "autoFish.mythical.daedalus": "Automaton of Daedalus",
+  "autoFish.mythical.hades": "Wrath of Hades",
+  "autoFish.stats": "Statistics",
+  "autoFish.preMythical": "Mythical Fish",
+  "autoFish.postMythical": "Caught a",
+  "autoFish.message.joinLobby": "joined the lobby"
+}
